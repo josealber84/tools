@@ -6,7 +6,7 @@ The target is not to completely substitute R or Python as data science tools, bu
 
 ## Tool index
 
-**top-words**
+### top-words
 Takes text as input. Returns the most common words in the text, and the count for each of the words.
 
 Usage:
