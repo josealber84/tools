@@ -11,8 +11,8 @@ Takes text as input. Returns the most common words in the text, and the count fo
 
 Usage:
 
-$ < textfile.txt top-words 10
-This line shows the top 10 most common words in the file textfile.txt.
+```$ < textfile.txt top-words 10```  
+*This line shows the top 10 most common words in the file textfile.txt*
 
-$ < textfile.txt top-words
-This line shows the top 5 (default) most common words in the file textfile.txt.
+```$ < textfile.txt top-words```  
+*This line shows the top 5 (default) most common words in the file textfile.txt*
