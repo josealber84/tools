@@ -6,6 +6,8 @@ The target is not to completely substitute R or Python as data science tools, bu
 
 ## Tool index
 
+---
+
 ### top-words
 Takes text as input. Returns the most common words in the text, and the count for each of the words.
 
@@ -20,6 +22,8 @@ Usage:
 
 ```$ < textfile.txt top-words```  
 *This line shows the top 5 (default) most common words in the file textfile.txt*
+
+---
 
 ### unpack
 Extract compressed files automagically (I always forget the tar params). Copied from [Data Science at the Command Line](https://www.datascienceatthecommandline.com/).
