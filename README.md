@@ -20,3 +20,10 @@ Usage:
 
 ```$ < textfile.txt top-words```  
 *This line shows the top 5 (default) most common words in the file textfile.txt*
+
+### unpack
+Extract compressed files automagically (I always forget the tar params). Copied from [Data Science at the Command Line](https://www.datascienceatthecommandline.com/).
+
+Usage:
+
+```unpack logs.tar.gz```
